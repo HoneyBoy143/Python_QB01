@@ -1,5 +1,4 @@
 #Write a Python program to implement a stack using push, pop, and display functions
-
 class Stack:
     def __init__(self):
         self.stack = []

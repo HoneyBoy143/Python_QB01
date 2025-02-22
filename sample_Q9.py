@@ -17,5 +17,5 @@ class Child(Parent):
         print(f"Child Age: {self.age}")
 
 # Example usage
-child = Child("John", 12)
+child = Child("AD", 19)
 child.display()

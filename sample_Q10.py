@@ -15,5 +15,5 @@ class Cat(Animal):
 # Example usage
 dog = Dog()
 cat = Cat()
-print(dog.speak())  # Output: Woof!
-print(cat.speak())  # Output: Meow!
+print(dog.speak()) 
+print(cat.speak()) 
