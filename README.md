@@ -1,2 +1,2 @@
-# Python_QB_02
- by abhi@2005
+# Python_QB_01
+ by mr.abhi@2005
